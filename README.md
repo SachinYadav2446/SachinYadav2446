@@ -3,7 +3,7 @@ Hi, I'm Sachin Yadav<br><br>I'm a Computer Science student and full-stack develo
 
 
 ## 🌐 Socials:
-[!(https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BINARYSPHERE45) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yadavsachin2446@gmail.com) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BINARYSPHERE45) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yadavsachin2446@gmail.com) 
 
 
 
