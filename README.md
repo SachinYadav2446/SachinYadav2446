@@ -55,16 +55,7 @@ I build things that need to hold weight: APIs that don't fall over, pipelines th
 
 
 
-<br/>
 
-<p align="center" style="max-width: 720px; margin: auto;">
-
-If you cut me open, you’d probably find Java and Spring Boot running somewhere underneath. I’m obsessed with building backend systems that are clean, scalable, and reliable—the kind that quietly power great products without anyone noticing. But I’m just as drawn to artificial intelligence and machine learning, where raw data transforms into predictions, intelligent decisions, and entirely new possibilities. Python is my playground for experimenting with AI, automation, and data, while tools like NumPy and Pandas help me uncover patterns before a model ever begins learning. What excites me most, though, isn’t a single language or framework—it’s building products from scratch. Whether it’s **Bright Code**, reimagining the developer experience, **Cretify**, solving real-world problems through technology, or **NUMA**, my vision of an intelligent AI assistant, every project is another step toward creating software that people genuinely rely on. I’m not interested in chasing the latest trend or adding another framework to my résumé. I want to master the fundamentals, design systems that scale, and build technology that leaves a lasting impact—from the first sketch on a whiteboard to a product used by thousands, and eventually millions.
-
-</p>
-
-
-<br/>
 
 ##  Featured Projects
 
