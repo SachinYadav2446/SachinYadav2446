@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B0A12,50:6D071A,100:2B0A12&height=230&section=header&text=SACHIN%20YADAV&fontSize=55&fontColor=E8C4C4&animation=fadeIn&fontAlignY=38&desc=aka%20BinarySphere%20%E2%80%94%20Backend%20%2F%20AI%2C%20ML%20%2F%20Cloud&descAlignY=58&descSize=18&descColor=C97B84" width="100%"/>
 
-<a href="https://www.linkedin.com/in/sachin-yadav-54646a322/">
+<a href="https://www.linkedin.com/in/sachin-yadav-735444434/">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=900&color=C97B84&center=true&vCenter=true&width=650&lines=root%40binarysphere%3A~%24+whoami;%3E+CSE+student+%2C+Polaris+School+of+Technology;%3E+Backend+%3A+Java+%2F+Spring+Boot+%2F+Go;%3E+Data+%3A+ML+%2F+DL+%2F+Pandas+%2F+Seaborn;%3E+Cloud+%3A+AWS+Amplify+%2F+RDS+%2F+Docker;%3E+status%3A+shipping..." alt="Typing SVG" />
 </a>
 
