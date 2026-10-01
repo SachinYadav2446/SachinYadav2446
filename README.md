@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sachin-yadav-54646a322/"><img src="https://img.shields.io/badge/LinkedIn-6D071A?style=for-the-badge&logo=linkedin&logoColor=E8C4C4" /></a>
+  <a href="https://www.linkedin.com/in/sachin-yadav-735444434/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-6D071A?style=for-the-badge&logo=linkedin&logoColor=E8C4C4" /></a>
   <a href="https://x.com/BINARYSPHERE45"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-2B0A12?style=for-the-badge&logo=x&logoColor=E8C4C4" /></a>
   <img src="https://img.shields.io/badge/3rd%20Year-CSE%20@%20Polaris-6D071A?style=for-the-badge&logo=googlescholar&logoColor=E8C4C4" />
 </div>
